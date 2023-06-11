@@ -1,0 +1,74 @@
+[
+  {
+    "Username": "John",
+    "Image": "https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?ixlib=rb-4.0.3\u0026ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D\u0026w=1000\u0026q=80",
+    "LatestMessage": "Hi",
+    "LatestOnline": "1 June 2023",
+    "Messages": [
+      {
+        "Content": "Hi",
+        "HorizontalAlignment": "Left",
+        "Background": "LightGray",
+        "dateTime": "13:41",
+        "Width": 200,
+        "Heigth": 25
+      },
+      {
+        "Content": "ok",
+        "HorizontalAlignment": "Right",
+        "Background": "#20C997",
+        "dateTime": "23:15",
+        "Width": 200,
+        "Heigth": 25
+      }
+    ]
+  },
+  {
+    "Username": "Tom",
+    "Image": "https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?ixlib=rb-4.0.3\u0026ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D\u0026w=1000\u0026q=80",
+    "LatestMessage": "We will be in park tomorow.",
+    "LatestOnline": "1 June 2023",
+    "Messages": [
+      {
+        "Content": "We will be in park tomorow.",
+        "HorizontalAlignment": "Left",
+        "Background": "LightGray",
+        "dateTime": "12:05",
+        "Width": 200,
+        "Heigth": 25
+      },
+      {
+        "Content": "I will be there.",
+        "HorizontalAlignment": "Right",
+        "Background": "#20C997",
+        "dateTime": "23:17",
+        "Width": 200,
+        "Heigth": 25
+      }
+    ]
+  },
+  {
+    "Username": "Herkel",
+    "Image": "https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?ixlib=rb-4.0.3\u0026ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D\u0026w=1000\u0026q=80",
+    "LatestMessage": "Hi",
+    "LatestOnline": "1 June 2023",
+    "Messages": [
+      {
+        "Content": "Hi",
+        "HorizontalAlignment": "Left",
+        "Background": "LightGray",
+        "dateTime": "10:10",
+        "Width": 200,
+        "Heigth": 25
+      },
+      {
+        "Content": "Hi. How are you ?",
+        "HorizontalAlignment": "Right",
+        "Background": "#20C997",
+        "dateTime": "23:17",
+        "Width": 200,
+        "Heigth": 25
+      }
+    ]
+  }
+]

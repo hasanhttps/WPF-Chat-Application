@@ -1,0 +1,22 @@
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\bin\Debug\net6.0-windows\WPF Chat Application Homework.exe
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\bin\Debug\net6.0-windows\WPF Chat Application Homework.deps.json
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\bin\Debug\net6.0-windows\WPF Chat Application Homework.runtimeconfig.json
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\bin\Debug\net6.0-windows\WPF Chat Application Homework.dll
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\bin\Debug\net6.0-windows\WPF Chat Application Homework.pdb
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\obj\Debug\net6.0-windows\WPF Chat Application Homework.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\obj\Debug\net6.0-windows\WPF Chat Application Homework_MarkupCompile.cache
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\obj\Debug\net6.0-windows\WPF Chat Application Homework_MarkupCompile.lref
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\obj\Debug\net6.0-windows\WPF Chat Application Homework.g.resources
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\obj\Debug\net6.0-windows\WPF Chat Application Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\obj\Debug\net6.0-windows\WPF Chat Application Homework.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\obj\Debug\net6.0-windows\WPF Chat Application Homework.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\obj\Debug\net6.0-windows\WPF Chat Application Homework.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\obj\Debug\net6.0-windows\WPF Chat Application Homework.dll
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\obj\Debug\net6.0-windows\refint\WPF Chat Application Homework.dll
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\obj\Debug\net6.0-windows\WPF Chat Application Homework.pdb
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\obj\Debug\net6.0-windows\WPF Chat Application Homework.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\obj\Debug\net6.0-windows\ref\WPF Chat Application Homework.dll
+C:\Users\hasan\source\repos\WPF Chat Application Homework\WPF Chat Application Homework\obj\Debug\net6.0-windows\App.baml

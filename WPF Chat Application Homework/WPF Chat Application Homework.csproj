@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>WPF_Chat_Application_Homework</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="assets\icons8-edit-24.png" />
+    <None Remove="assets\icons8-ellipsis-v-24.png" />
+    <None Remove="assets\icons8-search-24.png" />
+    <None Remove="assets\icons8-send-message-48.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="assets\icons8-edit-24.png" />
+    <Resource Include="assets\icons8-ellipsis-v-24.png" />
+    <Resource Include="assets\icons8-search-24.png" />
+    <Resource Include="assets\icons8-send-message-48.png" />
+  </ItemGroup>
+
+</Project>
